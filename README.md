@@ -1,9 +1,10 @@
-### Hi there 👋
-I am Tannu Daral, a freshman at IGDTUW studying Computer Science and Engineering. I'm a tech enthusiast who is currently learning web development. I am also a technical blogger. I also have started exploring the world of open source. I'm really interested in learning the new technologies and innovate and empower women to become a part of the tech industry.
+<h1 align=center> Hey there! </h1>
+<img src="https://user-images.githubusercontent.com/70472388/134407528-0a4aa1cb-6b5b-431c-941b-b24223856653.gif" width="1024" height="340"/>
+
+<p align=center>I am a second year student at IGDTUW. I am pursuing B.Tech in Computer Science and Engineering. I'm a tech enthusiast and I love participating in hackathons. I'm really interested in learning the new technologies and innovate and empower women to become a part of the tech industry.</p>
 
 Few more things about me: 
 
-- 🌱 I’m currently learning HTML5, CSS, Javascript and C++.
-- 💬 Ask me about technology, books, music and illustrator.
-- 📫 How to reach me: find me @tannudaral on twitter, dms open! ^_^
-- 😄 Pronouns: She/Her
+- I’m currently learning Javascript, C++ and Flutter.
+- How to reach me: find me @tannudaral on twitter, dms are welcome! ^_^
+- Pronouns: She/Her/Hers
