@@ -7,7 +7,7 @@
 
 Few more things about me: 
 
-- I’m currently learning Javascript, C++ and Flutter.
+- I’m currently learning C++, Javascript and Php.
 - How to reach me: find me @tannudaral on twitter, dms are welcome! ^_^
 - Pronouns: She/Her/Hers
 - How to reach me? tannudaral.dev@gmail.com
