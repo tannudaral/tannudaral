@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/70472388/137866328-fe2828b5-ec09-4260-a87f-b265dcdd64ac.png" width="200" height="200"/>
 </p>
 
-<p align=center>I am Tannu Daral, a second year student at IGDTUW. I am pursuing B.Tech in Computer Science and Engineering. I'm a tech enthusiast and I love participating in hackathons. I'm really interested in learning the new technologies and innovate and empower women to become a part of the tech industry.</p>
+<p align=center>I am Tannu Daral. I am a undergraduate student at IGDTUW. I am pursuing Bachelor's of Technology in Computer Science and Engineering. I'm a tech enthusiast and I love participating in hackathons. I'm really interested in learning the new technologies and innovate and empower women to become a part of the tech industry.</p>
 
 Few more things about me: 
 
