@@ -8,7 +8,7 @@
 Few more things about me: 
 
 - I’m currently learning C/C++, Javascript and Php 
-- How to reach me: find me bluivy#4860 on discord ^_^
+- How to reach me: find me at bluivy#4860 on discord ^_^
 - Pronouns: She/Her/Hers 💮
 - I would love to collaborate on a project for a hackathon 🦆
 - In my free time, I can be found building new softwares, learning and understanding various technologies (these days, I am interested in learning about data engineering and blockchain) and video editing & graphic design 🤎
