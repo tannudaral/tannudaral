@@ -29,7 +29,7 @@
 ### About me 
 
 - I’m currently learning C++, JavaScript, Python and Machine Learning.
-- How to reach me: find me at bluivy#4860 on discord ^_^
+- How to reach me: email me at tannudaral.dev@gmail.com ^_^
 - Pronouns: She/Her
 - I would love to collaborate on a Machine Learning Project 
 - In my free time, I can be found building softwares, solving doubts in discord communities, learning and understanding various technologies.
