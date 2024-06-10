@@ -24,14 +24,12 @@
 
 
 ### Overview
-<p>I am Tannu Daral, pursuing Bachelor's of Technology in Computer Science and Engineering. I'm a tech enthusiast and I love participating in hackathons. I also love learning new softwares and technologies and helping the community.</p>
+<p>I am Tannu Daral. Completed Bachelor's of Technology in Computer Science and Engineering. A tech enthusiast and love learning new softwares and technologies and helping the community.</p>
 
 ### About me 
 
-- I’m currently learning C++, JavaScript, Python and Machine Learning.
 - How to reach me: email me at tannudaral.dev@gmail.com ^_^
 - Pronouns: She/Her
-- I would love to collaborate on a Machine Learning Project 
 - In my free time, I can be found building softwares, solving doubts in discord communities, learning and understanding various technologies.
 - My other hobbies are learning new softwares(currently learning Blender, Matlab and RSoftware), video editing, graphic design, reading blogs, making and watching videos, movies and more. 
 
